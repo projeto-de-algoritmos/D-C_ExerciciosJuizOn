@@ -1,45 +1,37 @@
-**!! Atenção: Renomeie o seu repositório para (Tema)_(NomeDoProjeto). !!** 
+# D-C_ExerciciosJuizOn
 
-Temas:
- - Grafos1
- - Grafos2
- - PD
- - D&C
- - Greed
- - Final 
- 
- **!! *Não coloque os nomes dos alunos no título do repositório*. Exemplo de título correto: Grafos2_Labirinto-do-Minotauro !!**
- 
- (Apague essa seção)
-
-# NomedoProjeto
-
-**Número da Lista**: X<br>
-**Conteúdo da Disciplina**: XXXXXXXXXX<br>
+**Número da Lista**: 4<br>
+**Conteúdo da Disciplina**: Dividir e Conquistar <br>
 
 ## Alunos
 |Matrícula | Aluno |
 | -- | -- |
-| xx/xxxxxx  |  xxxx xxxx xxxxx |
-| xx/xxxxxx  |  xxxx xxxx xxxxx |
+| 20/0026046  |  Pedro de Oliveira Campos Barbosa |
+| 20/2045268  | Raquel Temóteo Eucaria Pereira da Costa|
 
-## Sobre 
-Descreva os objetivos do seu projeto e como ele funciona. 
-
-## Screenshots
-Adicione 3 ou mais screenshots do projeto em funcionamento.
-
-## Instalação 
-**Linguagem**: xxxxxx<br>
-**Framework**: (caso exista)<br>
-Descreva os pré-requisitos para rodar o seu projeto e os comandos necessários.
-
-## Uso 
-Explique como usar seu projeto caso haja algum passo a passo após o comando de execução.
-
-## Outros 
-Quaisquer outras informações sobre seu projeto podem ser descritas abaixo.
+## Exercícios Leet Code
+|ID|Título |Descrição |Resposável|Nível                                                        |
+|--|---------------------|----------|-------|-----------------------|
+|1 |[Median of Two Sorted Arrays ](./exercicios/1.py)  |    | Pedro    |Difícil|      |
+|2 |[Merge k Sorted Lists](./exercicios/2.py)      |         | Raquel   |Difícil|              |
+|3 |[Count of Smaller Numbers After Self](./exercicios/3.py)|| Raquel   |Difícil|
+|4 |[Number of Ways to Reorder Array to Get Same BST](./exercicios/4.py) |   | Pedro    |Difícil|
 
 
+## Aprovação
+
+✅ **1. [Median of Two Sorted Arrays ](https://leetcode.com/problems/median-of-two-sorted-arrays/)** 
+![Alt text](./img/image1.png)
 
 
+✅ **2. [Merge k Sorted Lists](https://leetcode.com/problems/count-of-smaller-numbers-after-self/)**
+![Alt text](./img/image2.png)
+
+✅ **3. [Count of Smaller Numbers After Self](https://leetcode.com/problems/count-of-smaller-numbers-after-self/)**
+![Alt text](./img/image3.png)
+
+✅ **4. [Number of Ways to Reorder Array to Get Same BST](https://leetcode.com/problems/number-of-ways-to-reorder-array-to-get-same-bst/)** 
+![Alt text](./img/image4.png)
+
+## Apresentação
+[Link do vídeo](./video/d&c.mp4) de apresentação.
