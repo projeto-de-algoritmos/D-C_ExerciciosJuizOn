@@ -13,8 +13,8 @@
 |ID|Título |Descrição |Resposável|Nível                                                        |
 |--|---------------------|----------|-------|-----------------------|
 |1 |[Median of Two Sorted Arrays ](./exercicios/1.py)  |    | Pedro    |Difícil|      |
-|2 |[Merge k Sorted Lists](./exercicios/2.py)      |         | Raquel   |Difícil|              |
-|3 |[Count of Smaller Numbers After Self](./exercicios/3.py)|| Raquel   |Difícil|
+|2 |[Merge k Sorted Lists](./exercicios/2.py)      | Combinar k listas encadeadas (linked lists) ordenadas em uma única lista encadeada        | Raquel   |Difícil|              |
+|3 |[Count of Smaller Numbers After Self](./exercicios/3.py)|Contando valores menores a direita| Raquel   |Difícil|
 |4 |[Number of Ways to Reorder Array to Get Same BST](./exercicios/4.py) |   | Pedro    |Difícil|
 
 
@@ -24,7 +24,7 @@
 ![Alt text](./img/image1.png)
 
 
-✅ **2. [Merge k Sorted Lists](https://leetcode.com/problems/count-of-smaller-numbers-after-self/)**
+✅ **2. [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)**
 ![Alt text](./img/image2.png)
 
 ✅ **3. [Count of Smaller Numbers After Self](https://leetcode.com/problems/count-of-smaller-numbers-after-self/)**
