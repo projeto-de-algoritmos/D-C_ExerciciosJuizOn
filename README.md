@@ -12,10 +12,10 @@
 ## Exercícios Leet Code
 |ID|Título |Descrição |Resposável|Nível                                                        |
 |--|---------------------|----------|-------|-----------------------|
-|1 |[Median of Two Sorted Arrays ](./exercicios/1.py)  |    | Pedro    |Difícil|      |
+|1 |[Median of Two Sorted Arrays ](./exercicios/1.py)  |  Encontrar a mediana da junção dois vetores ordenados  | Pedro    |Difícil|      |
 |2 |[Merge k Sorted Lists](./exercicios/2.py)      | Combinar k listas encadeadas (linked lists) ordenadas em uma única lista encadeada        | Raquel   |Difícil|              |
 |3 |[Count of Smaller Numbers After Self](./exercicios/3.py)|Contando valores menores a direita| Raquel   |Difícil|
-|4 |[Number of Ways to Reorder Array to Get Same BST](./exercicios/4.py) |   | Pedro    |Difícil|
+|4 |[Number of Ways to Reorder Array to Get Same BST](./exercicios/4.py) |  Número de modos para reordenar um vetor para achar a mesma árvore de busca binária | Pedro    |Difícil|
 
 
 ## Aprovação
