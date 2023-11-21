@@ -34,4 +34,4 @@
 ![Alt text](./img/image4.png)
 
 ## Apresentação
-[Link do vídeo](./video/d&c.mp4) de apresentação.
+[Link do vídeo](https://github.com/projeto-de-algoritmos/D-C_ExerciciosJuizOn/blob/master/video/entrega.mp4) de apresentação.
